@@ -1,0 +1,44 @@
+body  {
+  background-color: bisque;
+}
+
+
+.container{
+    font-size: 25x;
+    padding: 20px;
+    margin: 10px;
+    font: optional;
+   
+}
+
+.create{
+  background-color: darkmagenta;
+  border-radius: 15px;
+  color: white;
+}
+.update{
+  background-color: blueviolet;
+  border-radius: 10px;
+  color: white;
+}
+.delete{
+  background-color: darkorchid;
+  border-radius: 10px;
+  color: white;
+}
+
+.update:hover{
+  background-color: black;
+}
+
+.delete:hover{
+  background-color: black;
+}
+.table th{
+  width: 150px;
+    background-color: lightgray;
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #000;
+
+}

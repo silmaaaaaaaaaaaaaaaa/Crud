@@ -1,0 +1,46 @@
+{
+  "book_library": [
+    {
+      "id": 2,
+      "name": "Pergi",
+      "writer": "Tere Liye",
+      "price": 70000,
+      "genre": "Action"
+    },
+    {
+      "id": 3,
+      "name": "Rindu",
+      "writer": "Tere Liye",
+      "price": 70000,
+      "genre": "Religi"
+    },
+    {
+      "id": 4,
+      "name": "Atomic Habits",
+      "writer": "James Clear",
+      "price": 70000,
+      "genre": "Inspiring"
+    },
+    {
+      "name": "la tahzan",
+      "writer": "irma",
+      "genre": "roman",
+      "price": "10000",
+      "id": 8
+    },
+    {
+      "name": "kutu buku",
+      "writer": "Angel",
+      "genre": "komedian",
+      "price": "5000",
+      "id": 9
+    },
+    {
+      "name": "diary",
+      "writer": "abdnd",
+      "genre": "cinta",
+      "price": "3000",
+      "id": 10
+    }
+  ]
+}

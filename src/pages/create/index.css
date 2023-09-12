@@ -1,0 +1,8 @@
+.container-create{
+    display: flex;
+    flex-direction: column;
+}
+
+input,button{
+    width: fit-content;
+}

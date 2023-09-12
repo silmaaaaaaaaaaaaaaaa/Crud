@@ -1,0 +1,16 @@
+.container-edit{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    text-align:left;
+    letter-spacing: 3px;
+    /* font-style: italic; */
+}
+
+input, button{
+    width: fit-content; 
+}
+button{
+    margin: 5px;
+}
+
